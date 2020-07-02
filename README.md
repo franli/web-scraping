@@ -1,5 +1,5 @@
 # Collection of Web Scraping Programs Written in 2017
- 
+
 
 ## Introduction
 
@@ -11,24 +11,24 @@ Here are the programs/scripts.
 
 * [gter-admission-economics.py](gter-admission-economics.py) 
 
-Scrape graduate school admission data from the [gter forum](http://bbs.gter.net/) for better decision making during graduate school application.
+  Scrape graduate school admission data from the [gter forum](http://bbs.gter.net/) for better decision making during graduate school application.
 
 * [douyu.py](douyu.py)
 
-Scrape the [DouYu](https://en.wikipedia.org/wiki/DouYu) live streaming website. Program requested by a friend.
+  Scrape the [DouYu](https://en.wikipedia.org/wiki/DouYu) live streaming website. Program requested by a friend.
 
 * [quantnet.py](quantnet.py)
 
-Gather graduate school admission data posted on [quantnet](https://quantnet.com/tracker/) for better decision making.
+  Gather graduate school admission data posted on [quantnet](https://quantnet.com/tracker/) for better decision making.
 
 * [douban movie top250](douban)
 
-Scrape movie list on [https://movie.douban.com/top250](https://movie.douban.com/top250). A beginner's project for familiarizing with the scrapy framework.
+  Scrape movie list on [https://movie.douban.com/top250](https://movie.douban.com/top250). A beginner's project for familiarizing with the scrapy framework.
 
 * [bocconi](bocconi)
 
-Gather Bocconi faculty information from Bocconi's website.
+  Gather Bocconi faculty information from Bocconi's website.
 
 * [xpath syntax](xpath-syntax.md)
 
-A collection of examples that illustrates basic [Xpath](https://en.wikipedia.org/wiki/XPath) syntax. XPath (XML Path Language) is a query language for selecting nodes from an XML document.
+  A collection of examples that illustrates basic [Xpath](https://en.wikipedia.org/wiki/XPath) syntax. XPath (XML Path Language) is a query language for selecting nodes from an XML document.
